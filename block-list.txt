@@ -1,0 +1,6 @@
+# Title: zft9xgy block list
+# Description: My personal blocklist por pihole.
+# Homepage: https://github.com/zft9xgy/pihole-allow
+# Last modified: 18/08/2025
+apple.com7c.xyz
+com7c.xyz
