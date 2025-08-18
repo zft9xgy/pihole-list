@@ -1,0 +1,7 @@
+# Title: zft9xgy allow list
+# Description: My personal allow list por pihole.
+# Homepage: https://github.com/zft9xgy/pihole-allow
+# Last modified: 18/08/2025
+mask-h2.icloud.com
+mask.icloud.com
+cdn.cookielaw.org
